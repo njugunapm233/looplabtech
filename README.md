@@ -1,2 +1,2 @@
 # looplabtech
-Bootstrap colorsa and col properties
+Bootstrap color and col properties
